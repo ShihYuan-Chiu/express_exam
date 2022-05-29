@@ -8,6 +8,7 @@ $ npm install express-handlebars @ 3.0.0
 
 ### 實際運作畫面
 在終端機輸入node app.js執行
+
 ![開啟瀏覽器輸入http://localhost:3000](https://github.com/ShihYuan-Chiu/express_exam/blob/main/1.jpg)
 
 ![點選About按鈕](https://github.com/ShihYuan-Chiu/express_exam/blob/main/2.jpg)
