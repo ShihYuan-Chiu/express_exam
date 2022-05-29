@@ -1,12 +1,15 @@
 ### express_exam
 使用 Express 製作的簡單網頁應用，內容包含4個頁面(首頁、About、Portfolio、Contact)
 
-### 安裝環境
+### 環境
 此項目使用node、npm、express和express-handlebars
 
   $ npm install express @ 4.16.4
   
   $ npm install express-handlebars @ 3.0.0
+  
+### 安裝
+
 
 ### 實際運作畫面
 
