@@ -3,13 +3,21 @@
 
 ### 安裝環境
 此項目使用node、npm、express和express-handlebars
+ 
+  $ nvm install 14.16.0
 
   $ npm install express @ 4.16.4
   
   $ npm install express-handlebars @ 3.0.0
   
-### 實際運作畫面
+### 安裝&執行
+在終端機使用nvm安裝node.js 14.16.0版($ nvm install 14.16.0),執行node.js($ nvm use 14.16.0)
 
+使用npm安裝express和express-handlebars套件($ npm install express @ 4.16.4、 $ npm install express-handlebars @ 3.0.0)
+
+將此檔案下載，解壓縮，使用終端機輸入node app.js執行
+  
+### 實際運作畫面
 在終端機輸入node app.js執行
 開啟瀏覽器輸入http://localhost:3000
 
