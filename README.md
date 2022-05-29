@@ -18,8 +18,7 @@
 將此檔案下載，解壓縮，使用終端機輸入node app.js執行
   
 ### 實際運作畫面
-在終端機輸入node app.js執行
-開啟瀏覽器輸入http://localhost:3000
+在終端機輸入node app.js執行，開啟瀏覽器輸入http://localhost:3000
 
 ![](https://github.com/ShihYuan-Chiu/express_exam/blob/main/1.jpg)
 
